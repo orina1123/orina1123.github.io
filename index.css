@@ -1,9 +1,14 @@
 body
 {
 	margin: 20pt;
+	background-color: #d2a679;
 	font-family: 'Fjord One', serif;
 	font-size: 12pt;
 	line-height: 18pt;
+}
+h2
+{
+	color: #006600;
 }
 li
 {
